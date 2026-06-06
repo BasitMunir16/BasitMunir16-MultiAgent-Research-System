@@ -155,8 +155,3 @@ MIT License
 Built as a multi-agent AI research automation system using LLMs, web scraping, and autonomous agent workflows.
 
 ---
-
-If you want, I can next:
-✅ make `requirements.txt`
-✅ create full working `main.py`
-✅ or build Streamlit UI for this project
