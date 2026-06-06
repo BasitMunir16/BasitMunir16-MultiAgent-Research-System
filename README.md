@@ -56,6 +56,14 @@ pip install -r requirements.txt
 
 ---
 
+## 🧠 ResearchMind AI System Preview
+
+### 🔍 Agent Pipeline View
+![Search Reader Writer Critic Pipeline](https://raw.githubusercontent.com/BasitMunir16/BasitMunir16-MultiAgent-Research-System/main/2.png)
+
+### 📊 Full System Interface
+![ResearchMind Dashboard](https://raw.githubusercontent.com/BasitMunir16/BasitMunir16-MultiAgent-Research-System/main/3.png)
+
 ### 3. Add API Keys
 
 Create a `.env` file:
