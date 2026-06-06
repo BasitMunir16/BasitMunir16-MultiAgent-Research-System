@@ -42,7 +42,7 @@ Output
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ResearchMind-AI.git
+git clone https://github.com/BasitMunir16/ResearchMind-AI.git
 cd ResearchMind-AI
 ```
 
