@@ -58,6 +58,9 @@ pip install -r requirements.txt
 
 ## 🧠 ResearchMind AI System Preview
 
+
+![ResearchMind Dashboard](https://github.com/BasitMunir16/BasitMunir16-MultiAgent-Research-System/blob/5b889a90a8aa0e98da2654eef1e662d59735224a/1.png)
+
 ### 🔍 Agent Pipeline View
 ![Search Reader Writer Critic Pipeline](https://raw.githubusercontent.com/BasitMunir16/BasitMunir16-MultiAgent-Research-System/main/2.png)
 
